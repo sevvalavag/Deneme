@@ -1,4 +1,4 @@
-package sevval_main;
+package com.example.springboottutorial;
 
 import java.io.File;
 import java.util.ArrayList;
